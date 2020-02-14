@@ -107,8 +107,9 @@ def edit_database(city_id):
                                meteo=meteo, error=error)
 
 
+# Finally declare the server, host and the mode in which you want to run the server
 if __name__ == '__main__':
     app.run(host='0.0.0.0')
-    app.debug=True
+    app.debug=False
 
     
