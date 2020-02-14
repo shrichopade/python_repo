@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4187f4ee-f649-4371-ad4c-b97514c58617" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XixxswLAWgLSJsrhkdkxpjHZFp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/flaskweb" />
+      <recent name="$PROJECT_DIR$/flaskweb/static" />
+      <recent name="$PROJECT_DIR$/flaskweb/templates" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flaskweb" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flaskweb/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4187f4ee-f649-4371-ad4c-b97514c58617" name="Default Changelist" comment="" />
+      <created>1581542967894</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581542967894</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="678" y="218" width="619" height="790" key="#app" timestamp="1581543122995">
+      <screen x="67" y="27" width="1853" height="1173" />
+    </state>
+    <state x="678" y="218" width="619" height="790" key="#app/67.27.1853.1173@67.27.1853.1173" timestamp="1581543122995" />
+    <state x="673" y="418" width="630" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581545087490">
+      <screen x="67" y="27" width="1853" height="1173" />
+    </state>
+    <state x="673" y="418" width="630" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1173@67.27.1853.1173" timestamp="1581545087490" />
+    <state x="526" y="271" width="924" height="684" key="DBNavigator.ProjectSettingsDialog" timestamp="1581547682160">
+      <screen x="67" y="27" width="1853" height="1173" />
+    </state>
+    <state x="526" y="271" width="924" height="684" key="DBNavigator.ProjectSettingsDialog/67.27.1853.1173@67.27.1853.1173" timestamp="1581547682160" />
+    <state x="771" y="371" width="501" height="484" key="FileChooserDialogImpl" timestamp="1581547495386">
+      <screen x="67" y="27" width="1853" height="1173" />
+    </state>
+    <state x="771" y="371" width="501" height="484" key="FileChooserDialogImpl/67.27.1853.1173@67.27.1853.1173" timestamp="1581547495386" />
+    <state width="1377" height="260" key="GridCell.Tab.0.bottom" timestamp="1581629426573">
+      <screen x="67" y="27" width="1853" height="1173" />
+    </state>
+    <state width="1377" height="260" key="GridCell.Tab.0.bottom/67.27.1853.1173@67.27.1853.1173" timestamp="1581629426573" />
+    <state width="1377" height="260" key="GridCell.Tab.0.center" timestamp="1581629426572">
+      <screen x="67" y="27" width="1853" height="1173" />
+    </state>
+    <state width="1377" height="260" key="GridCell.Tab.0.center/67.27.1853.1173@67.27.1853.1173" timestamp="1581629426572" />
+    <state width="1377" height="260" key="GridCell.Tab.0.left" timestamp="1581629426572">
+      <screen x="67" y="27" width="1853" height="1173" />
+    </state>
+    <state width="1377" height="260" key="GridCell.Tab.0.left/67.27.1853.1173@67.27.1853.1173" timestamp="1581629426572" />
+    <state width="1377" height="260" key="GridCell.Tab.0.right" timestamp="1581629426573">
+      <screen x="67" y="27" width="1853" height="1173" />
+    </state>
+    <state width="1377" height="260" key="GridCell.Tab.0.right/67.27.1853.1173@67.27.1853.1173" timestamp="1581629426573" />
+    <state x="482" y="248" key="SettingsEditor" timestamp="1581548209976">
+      <screen x="67" y="27" width="1853" height="1173" />
+    </state>
+    <state x="482" y="248" key="SettingsEditor/67.27.1853.1173@67.27.1853.1173" timestamp="1581548209976" />
+    <state x="649" y="440" key="com.intellij.ide.util.TipDialog" timestamp="1581542986522">
+      <screen x="67" y="27" width="1853" height="1173" />
+    </state>
+    <state x="649" y="440" key="com.intellij.ide.util.TipDialog/67.27.1853.1173@67.27.1853.1173" timestamp="1581542986522" />
+  </component>
+</project>
